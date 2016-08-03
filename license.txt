@@ -18,7 +18,7 @@ Each subfolders in this archive correspond to a different contributor :
 - Lucas
 - Faithtoken, http://fungustoken.deviantart.com
 - Skoll
-
+- Andy Meneely, http://www.se.rit.edu/~andy/
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
