@@ -1,8 +1,11 @@
-# icons
+# Game Icons
 
-For now this repository is only used to [track](https://github.com/game-icons/icons/issues) requests made on Twitter or by email.
+All SVG icons available on http://game-icons.net
 
-(soon) All SVG icons available on http://game-icons.net
+Also, this repository is used to [track](https://github.com/game-icons/icons/issues) requests made on Twitter or by email.
+You can add your own suggestions.
+
+A gitter room (chat) is available: https://gitter.im/game-icons/icons
 
 ## Contribution
 
