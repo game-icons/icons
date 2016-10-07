@@ -20,6 +20,7 @@ Each subfolders in this archive correspond to a different contributor :
 - Skoll
 - Andy Meneely, http://www.se.rit.edu/~andy/
 - Cathelineau
+- Kier Heyl
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
