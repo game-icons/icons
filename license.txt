@@ -21,6 +21,7 @@ Each subfolders in this archive correspond to a different contributor :
 - Andy Meneely, http://www.se.rit.edu/~andy/
 - Cathelineau
 - Kier Heyl
+- Aussiesim
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
