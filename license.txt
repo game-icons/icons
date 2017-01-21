@@ -22,6 +22,9 @@ Each subfolders in this archive correspond to a different contributor :
 - Cathelineau
 - Kier Heyl
 - Aussiesim
+- Sparker, http://citizenparker.com
+- Zeromancer - CC0
+- Rihlsul
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
