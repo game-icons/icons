@@ -14,28 +14,28 @@
    viewBox="0 0 135.46667 135.46667"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="play-button.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="275.42193"
-     inkscape:cy="240.12"
+     inkscape:cx="119.92193"
+     inkscape:cy="238.12"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="926"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -54,6 +54,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-161.53334)">
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.24432659px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="rect3334"
+       width="135.22235"
+       height="135.22235"
+       x="0.12215926"
+       y="161.65549" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:13.75833321;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 107.68527,229.26667 -78.845833,32.80834 c 4.233333,-32.80834 4.233333,-32.80833 0,-65.61667 z"
