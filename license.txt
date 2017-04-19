@@ -25,6 +25,7 @@ Each subfolders in this archive correspond to a different contributor :
 - Sparker, http://citizenparker.com
 - Zeromancer - CC0
 - Rihlsul
+- Quoting
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
