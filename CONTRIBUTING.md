@@ -29,6 +29,19 @@ To do so, we need a few info minor info about you :
 - Your name or your nickname. This will be public.
 - Your website / artist page address. Optional.
 
+### Version Control
+
+Assuming you are already a GitHub user, make a clone of this repository.
+When starting a task, be sure to create a specific branch for it. Naming conventions are left to your discretion. However, if it respond to a need expressed by an issue, a good practice is to use the formalism "featureNNN" with NNN being the number of the concerned issue.
+
+Then, you can peacefully make a pull request to the main repo (delapouite's one).
+
+When the pull request has been accepted, you can merge your branch to the master branch (and it should be conflict-free most of the time).
+
+### Creating new icon
+
+New icons must be started over the template found at the root directory (template.svg), i.e a 512x512px canvas with a 512x512px frame that acts as a background.
+
 ### File format / Directories tree
 
 Your files must be sent as individual [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics), a popular vector format that can be exported from Inkscape or Illustrator. We will take care of the automatic PNG generation for you.
