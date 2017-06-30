@@ -26,6 +26,8 @@ Each subfolders in this archive correspond to a different contributor :
 - Zeromancer - CC0
 - Rihlsul
 - Quoting
+- Guard13007, https://guard13007.com
+- DarkZaitzev, http://darkzaitzev.deviantart.com
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
