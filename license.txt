@@ -28,6 +28,7 @@ Each subfolders in this archive correspond to a different contributor :
 - Quoting
 - Guard13007, https://guard13007.com
 - DarkZaitzev, http://darkzaitzev.deviantart.com
+- SpencerDub
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
