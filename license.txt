@@ -1,6 +1,6 @@
 Icons provided under the Creative Commons 3.0 BY or CC0 if mentioned below.
 
-Each subfolders in this archive correspond to a different contributor :
+Each sub-folders in this archive correspond to a different contributor :
 
 - Lorc, http://lorcblog.blogspot.com
 - Delapouite, http://delapouite.com
@@ -29,6 +29,8 @@ Each subfolders in this archive correspond to a different contributor :
 - Guard13007, https://guard13007.com
 - DarkZaitzev, http://darkzaitzev.deviantart.com
 - SpencerDub
+- GeneralAce135
+- Zajkonur
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
