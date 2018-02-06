@@ -11,8 +11,10 @@
    viewBox="0 0 512 512"
    version="1.1"
    id="svg8"
-   sodipodi:docname="horned-ring-2.svg"
+   sodipodi:docname="horned-ring.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <title
+     id="title1105">horned ring</title>
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -21,6 +23,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>horned ring</dc:title>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Icons made by Delapouite, modification by freakinhippie</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
     </rdf:RDF>
   </metadata>
