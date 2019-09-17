@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="height: 512px; width: 512px;"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="horned-ring.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <title
+     id="title1105">horned ring</title>
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>horned ring</dc:title>
+        <cc:license
+           rdf:resource="https://creativecommons.org/licenses/by/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Icons made by Delapouite, modification by freakinhippie</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.6582031"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M0 0h512v512H0z"
+     fill="#000"
+     fill-opacity="1"
+     id="path2" />
+  <g
+     class=""
+     transform="translate(0,0)"
+     id="g6"
+     style="touch-action: none;">
+    <path
+       d="M255.157 123c-68.66 0-137.1 18.922-182.867 55.275.234 14.35 1.818 35.624 9.332 48.23 110.634-60.336 236.436-60.336 347.07 0 7.513-12.606 9.098-33.88 9.332-48.23C392.257 141.922 323.817 123 255.157 123zm199.81 76.057c-.324 2.98-.718 6.02-1.246 9.082-2.226 12.93-6.213 26.458-15.99 35.98-14.436 18.637-40.806 30.462-72.858 38.603C332.392 290.973 293.79 295 255.157 295c-38.632 0-77.235-4.028-109.715-12.277-31.907-8.104-58.17-19.868-72.648-38.36-11.983-11.982-16.234-28.786-17.77-43.857-13.73 27.256-11.503 62.122.672 98.648C69.988 342.03 129.406 389 255.156 389c125.75 0 185.17-46.97 199.462-89.846l.1-.297.12-.287c15.134-36.712 15.61-71.983.13-99.513z"
+       id="path4"
+       fill-opacity="1"
+       fill="#fff" />
+  </g>
+  <g
+     id="g1103"
+     transform="translate(2.5e-6)">
+    <g
+       transform="translate(3.820675,1.2061249)"
+       id="g1075">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1063"
+         d="m 303.52096,293.6933 c 47.26131,-57.98121 56.32989,-148.0512 57.96208,-149.4058 2.69419,-2.23597 14.53964,29.43523 12.41963,76.91891 -2.03646,45.6123 -50.3864,155.10351 -63.41268,156.78208 -1.49258,0.19233 -17.63664,-71.20793 -6.96903,-84.29519 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="scscs" />
+      <path
+         sodipodi:nodetypes="sscscs"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 311.14128,378.25581 c 0.63935,-1.79244 39.75997,-84.02101 46.85832,-128.44099 8.94703,-55.98868 4.24449,-104.72055 5.06059,-105.39785 2.69419,-2.23598 28.36161,129.86093 28.79691,162.87216 0.25674,19.47036 1.74483,27.08234 -9.08534,34.93836 -9.93545,6.82602 -72.62609,38.81955 -71.63048,36.02832 z"
+         id="path1065"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,508.17932,1.2061249)"
+       id="g1081">
+      <path
+         sodipodi:nodetypes="scscs"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 303.52096,293.6933 c 47.26131,-57.98121 56.32989,-148.0512 57.96208,-149.4058 2.69419,-2.23597 14.53964,29.43523 12.41963,76.91891 -2.03646,45.6123 -50.3864,155.10351 -63.41268,156.78208 -1.49258,0.19233 -17.63664,-71.20793 -6.96903,-84.29519 z"
+         id="path1077"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1079"
+         d="m 311.14128,378.25581 c 0.63935,-1.79244 39.75997,-84.02101 46.85832,-128.44099 8.94703,-55.98868 4.24449,-104.72055 5.06059,-105.39785 2.69419,-2.23598 28.36161,129.86093 28.79691,162.87216 0.25674,19.47036 1.74483,27.08234 -9.08534,34.93836 -9.93545,6.82602 -72.62609,38.81955 -71.63048,36.02832 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="sscscs" />
+    </g>
+  </g>
+</svg>

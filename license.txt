@@ -31,6 +31,7 @@ Each sub-folders in this archive correspond to a different contributor :
 - SpencerDub
 - GeneralAce135
 - Zajkonur
+- freakinhippie, http://www.voidgate.org
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
