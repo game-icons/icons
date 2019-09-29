@@ -31,6 +31,9 @@ Each sub-folders in this archive correspond to a different contributor :
 - SpencerDub
 - GeneralAce135
 - Zajkonur
+- Catsu
+- Starseeker
+- Pepijn Poolman
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
