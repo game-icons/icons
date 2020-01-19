@@ -34,6 +34,7 @@ Each sub-folders in this archive correspond to a different contributor :
 - Catsu
 - Starseeker
 - Pepijn Poolman
+- Pierre Leducq
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
