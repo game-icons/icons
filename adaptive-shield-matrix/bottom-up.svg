@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <g transform="translate(-5 -922.05)" fill-rule="evenodd">
+    <circle cx="55" cy="940.48" r="13.42" paint-order="fill markers stroke"/>
+    <circle r="13.42" cy="1003.61" cx="20" paint-order="fill markers stroke"/>
+    <circle cx="55" cy="1003.61" r="13.42" paint-order="fill markers stroke"/>
+    <circle r="13.42" cy="1003.61" cx="90" paint-order="fill markers stroke"/>
+    <path d="M55 962.54v25.04" stroke="#000" stroke-width="5"/>
+    <path d="M46.25 967.61l6-2h5l7 2-9-9z"/>
+    <path d="M38.38 962.7L25.86 984.4" stroke="#000" stroke-width="5"/>
+    <path d="M43.42 971.47l-4.2-4.73-4.32-2.5-7.07-1.77 12.3-3.3z"/>
+    <g>
+      <path d="M71.62 962.7l12.52 21.69" stroke="#000" stroke-width="5"/>
+      <path d="M66.58 971.47l4.2-4.73 4.32-2.5 7.07-1.77-12.3-3.3z"/>
+    </g>
+  </g>
+</svg>
