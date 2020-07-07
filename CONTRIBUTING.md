@@ -51,17 +51,17 @@ cereals.svg
 
 They are already thousands of icons available. Sometimes, different artist want to depict the same thing. To avoid name collisions, icons are organised like this:
 
-/ artist / deck / icon
+/ artist / icon
 
 For example :
 
 ```
-/ lorc / originals / wolf.svg
-/ delapouite / far-west / gun.svg
-/ delapouite / sci-fi / gun.svg
+/ lorc / wolf.svg
+/ delapouite / water-gun.svg
+/ delapouite / zat-gun.svg
 ```
 
-By following this hierarchical structure, we assure that each artist is free to name their icons the way they want and group them in meaningful categories if needed.
+By following this hierarchical structure, we assure that each artist is free to name their icons the way they want.
 
 ### Design / art rules
 
