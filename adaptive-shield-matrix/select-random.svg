@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <path fill="none" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-dashoffset="30" paint-order="fill markers stroke" d="M4.65 4.65h60v60h-60z"/>
+  <path d="M68.65 68.65L79.26 95.3l5.7-5.7 9.24 9.25 4.65-4.65-9.25-9.25 5.7-5.69z" fill-rule="evenodd"/>
+  <text style="line-height:114.38965607px;-inkscape-font-specification:Bebas" x="1.72" y="1034.91" font-weight="400" font-size="61.01" font-family="Bebas" letter-spacing="0" word-spacing="0" stroke-width="4.58" transform="translate(14.65 -978.96)">
+    <tspan x="1.72" y="1034.91" style="-inkscape-font-specification:'Liberation Sans Bold'" font-weight="700" font-family="Liberation Sans">?</tspan>
+  </text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <g transform="translate(14.65 -958.96)">
+    <path fill="none" stroke="#000" stroke-width="7" stroke-linecap="round" stroke-dashoffset="30" paint-order="fill markers stroke" d="M-10 963.61h60v60h-60z"/>
+    <path d="M54 1027.61l10.61 26.65 5.69-5.7 9.24 9.25 4.66-4.65-9.25-9.25 5.7-5.69z" fill-rule="evenodd"/>
+    <circle r="9.71" cy="980.61" cx="8" fill-rule="evenodd" paint-order="fill markers stroke"/>
+    <path d="M-1.9 1016.33l43.8-45.43" fill="none" stroke="#000" stroke-width="4"/>
+    <path fill-rule="evenodd" paint-order="fill markers stroke" d="M23.5 998.72h17v15.79h-17z"/>
+  </g>
+</svg>
