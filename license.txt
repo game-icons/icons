@@ -35,6 +35,7 @@ Each sub-folders in this archive correspond to a different contributor :
 - Starseeker
 - Pepijn Poolman
 - Pierre Leducq
+- Caro Asercion
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
