@@ -2,6 +2,9 @@
 
 # this script acts as a crude linter to check if some SVG files deviate from the intended format
 
+# Dependencies:
+# https://github.com/BurntSushi/ripgrep
+
 SVG_TAIL='z"/></svg>'
 
 ICON_HEAD='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 0h512v512H0z"/><path fill="#fff" d="'
