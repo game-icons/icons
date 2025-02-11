@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   style="height: 512px; width: 512px;"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="filled-shield.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#3e3e3e"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.5292969"
+     inkscape:cx="256.32694"
+     inkscape:cy="256"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     class=""
+     transform="translate(0,0)"
+     style=""
+     id="g1">
+    <path
+       id="path11"
+       style="display:inline;stroke:none;fill:#ffffff;fill-opacity:1"
+       d="m 83.078125,60.3125 c 1.805661,90.64677 12.785078,178.73691 38.371095,248.11523 27.28311,73.97752 68.40605,124.88826 132.67187,145.06055 71.63585,-17.71036 111.27873,-67.37039 136.78516,-141.88086 23.86839,-69.7219 31.68577,-159.52769 32.9082,-251.29492 z"
+       inkscape:label="Filler"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="path12"
+       style="display:inline;stroke:none;fill:#ffffff;fill-opacity:1"
+       d="m 45.90625,23.625 v 9.34375 c 0,102.68 10.49,205.0863 41.125,288.1543 30.637,83.068 82.364,147.41625 163.75,169.78125 l 2.2207,0.625 2.21875,-0.5 c 89.269,-19.03 141.64405,-83.6386 170.37305,-167.5586 28.728,-83.92 35.25,-187.777 35.25,-290.499997 V 23.625 Z m 18.810547,18.6875 h 0.0039 377.339843 c -0.413,98.8 -7.497,197.342 -34.125,275.125 -27.21,79.487 -73.39,136.63825 -154.375,154.78125 -73.28,-21.03 -119.914,-78.6965 -149,-157.5625 C 76.085551,237.44425 65.353797,140.5265 64.716797,42.3125 Z"
+       sodipodi:nodetypes="cscccccsccccccccc"
+       inkscape:label="Frame" />
+  </g>
+</svg>
