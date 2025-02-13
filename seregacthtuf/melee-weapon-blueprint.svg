@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 28.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Слой_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   sodipodi:docname="melee-weapon-blueprint.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#585858"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="true"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.25"
+   inkscape:cx="112"
+   inkscape:cy="746"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Слой_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#FFFFFF;}
+</style>
+
+
+
+<g
+   id="g1"><path
+     id="path47"
+     d="M 414.05663,73.345703 C 384.44274,73.34518 359.73481,95.192688 355.22656,123.58008 H 29.257806 v 284.46875 h 334.562504 50.23632 c 32.78831,-6.9e-4 59.56894,-26.78201 59.56836,-59.57031 V 132.91406 c -7e-4,-32.7874 -26.78094,-59.56766 -59.56836,-59.568357 z M 47.925775,142.24805 H 354.48632 v 206.23047 h 9.33399 9.33398 c 3e-5,-1.41876 0.0721,-2.81896 0.21094,-4.19922 2.08322,-20.7039 19.41008,-36.70155 40.6914,-36.70118 22.69947,4.9e-4 40.89991,18.20092 40.90039,40.9004 4.1e-4,22.70009 -18.2003,40.90186 -40.90039,40.90234 H 363.82031 47.925775 Z"
+     style="enable-background:new 0 0 512 512;fill:#ffffff;fill-opacity:1"
+     transform="translate(4.558602,15.302734)" /><path
+     d="M 153.55859,323.76562 V 238.46875 H 135.6543 v 30.14844 3.5 H 79.25 v 18 h 56.4043 v 3.48828 30.16015 z"
+     style="fill:#ffffff;stroke-dashoffset:30.6"
+     id="path3" /><path
+     d="m 171.55859,265.26172 v 31.72656 l 104.39649,9.83789 65.66015,-25.59765 -64.47656,-25.83008 z"
+     style="fill:#ffffff;stroke-dashoffset:30.6"
+     id="path2" /><path
+     style="enable-background:new 0 0 512 512;fill:#ffffff;stroke-dashoffset:30.6"
+     d="m 155.5,179.5 v 18 h 95 v -18 z"
+     id="path11" /><path
+     style="enable-background:new 0 0 512 512;fill:#ffffff;stroke-dashoffset:30.6"
+     d="m 287,179.5 v 18 h 44.5 v -18 z"
+     id="path1" /><path
+     style="fill:#ffffff;stroke-dashoffset:30.6"
+     d="m 313.5,331.5 v 30 H 263 v 18 h 68.5 v -48 z m -221,30 v 18 H 185 v -18 z m 111,0 v 18 h 29.75 v -18 z"
+     id="path5" /></g></svg>

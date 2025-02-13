@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Слой_1"
+   sodipodi:docname="modern-ranged-weapon-blueprint.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview
+   bordercolor="#000000"
+   borderopacity="0.25"
+   id="namedview2"
+   inkscape:current-layer="Слой_1"
+   inkscape:cx="278.37521"
+   inkscape:cy="300.70224"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:pagecheckerboard="true"
+   inkscape:pageopacity="0.0"
+   inkscape:showpageshadow="2"
+   inkscape:window-height="1001"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1920"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:zoom="1.0525362"
+   pagecolor="#585858">
+	</sodipodi:namedview>
+
+
+
+
+
+
+
+<g
+   id="path15">
+	<path
+   id="path47"
+   class="st1"
+   d="M414.1,73.3c-29.6,0-54.3,21.8-58.8,50.2h-326V408h334.6h50.2c32.8,0,59.6-26.8,59.6-59.6V132.9   C473.6,100.1,446.8,73.3,414.1,73.3z M47.9,142.2h306.6v206.2h9.3h9.3c0-1.4,0.1-2.8,0.2-4.2c2.1-20.7,19.4-36.7,40.7-36.7   c22.7,0,40.9,18.2,40.9,40.9c0,22.7-18.2,40.9-40.9,40.9h-50.2H47.9V142.2z"
+   style="enable-background:new 0 0 512 512"
+   transform="translate(4.558602,15.302734)" /><path
+   d="m 287,179.5 v 18 h 44.5 v -18 z"
+   id="path6"
+   style="enable-background:new 0 0 512 512;fill:#ffffff;fill-opacity:1"
+   transform="matrix(-1,0,0,1,485.80673,0)" /><path
+   d="m 155.5,179.5 v 18 h 95 v -18 z"
+   id="path11"
+   style="enable-background:new 0 0 512 512;fill:#ffffff;fill-opacity:1"
+   transform="matrix(-1,0,0,1,485.80673,0)" />
+<polygon
+   class="st1"
+   points="230.4,277.8 210.7,278.1 218,298.6 240,324.7 250.4,306.7 235.4,289.8  "
+   id="polygon2"
+   style="enable-background:new 0 0 512 512" /><path
+   id="path17"
+   class="st1"
+   d="M297.5,242.1l0.2,18.7l43.4-0.5v-21.9l-6.9-0.2l-5.2,12.8l-18.8-0.9l-6.2-7.4L297.5,242.1z"
+   style="enable-background:new 0 0 512 512" /><path
+   id="path16"
+   class="st1"
+   d="M247,237.7l0.3,26.5l32.3-3l-0.3-20.8L247,237.7z"
+   style="enable-background:new 0 0 512 512" /><path
+   id="path13"
+   class="st1"
+   d="M229,236.5l-64.3,2.8l-6.5,8l0.2,18.6l1.1,1.9l-4.9,22.6l12.6,7.4l5.9-22.1l14.1-1.1l-0.2-14.4  l12.2,0l7.6-0.1l22.5-0.3L229,236.5z"
+   style="enable-background:new 0 0 512 512" /><path
+   style="enable-background:new 0 0 512 512;fill:#ffffff;fill-opacity:1"
+   d="m 220.5,361.5 v 18 h -29.8 v -18 z"
+   id="path3" /><path
+   style="enable-background:new 0 0 512 512;fill:#ffffff;fill-opacity:1"
+   d="m 331.5,361.5 v 18 H 239 v -18 z"
+   id="path2" /><path
+   style="enable-background:new 0 0 512 512;fill:#ffffff;fill-opacity:1"
+   d="m 110.5,331.5 v 30 H 161 v 18 H 92.5 v -48 z"
+   id="path5" /><polygon
+   class="st1"
+   points="140.3,249.2 86,252.5 86,290.5 140.4,269.5  "
+   id="polygon1"
+   style="enable-background:new 0 0 512 512" /></g>
+</svg>

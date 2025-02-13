@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 28.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Слой_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   sodipodi:docname="building-blueprint.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#585858"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="true"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.3535534"
+   inkscape:cx="497.80316"
+   inkscape:cy="335.16861"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g26" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#FFFFFF;}
+</style>
+
+
+
+<g
+   id="g26"
+   transform="translate(4.558602,15.302734)"><path
+     id="path47"
+     d="M 414.05663,73.345703 C 384.44274,73.34518 359.73481,95.192688 355.22656,123.58008 H 29.257806 v 284.46875 h 334.562504 50.23632 c 32.78831,-6.9e-4 59.56894,-26.78201 59.56836,-59.57031 V 132.91406 c -7e-4,-32.7874 -26.78094,-59.56766 -59.56836,-59.568357 z M 47.925775,142.24805 H 354.48632 v 206.23047 h 9.33399 9.33398 c 3e-5,-1.41876 0.0721,-2.81896 0.21094,-4.19922 2.08322,-20.7039 19.41008,-36.70155 40.6914,-36.70118 22.69947,4.9e-4 40.89991,18.20092 40.90039,40.9004 4.1e-4,22.70009 -18.2003,40.90186 -40.90039,40.90234 H 363.82031 47.925775 Z"
+     style="fill:#ffffff;fill-opacity:1" /><path
+     id="rect1"
+     style="enable-background:new 0 0 512 512;fill:#ffffff;stroke-dashoffset:30.6"
+     d="M 208.5957 191.94336 L 99.677734 282.16406 L 137.5293 282.16406 L 137.5293 384.98828 L 279.66406 384.98828 L 279.66406 282.16406 L 317.51562 282.16406 L 208.5957 191.94336 z M 208.59766 215.31641 L 267.56836 264.16406 L 149.625 264.16406 L 208.59766 215.31641 z M 155.5293 282.16406 L 261.66406 282.16406 L 261.66406 366.98828 L 155.5293 366.98828 L 155.5293 282.16406 z "
+     transform="translate(-4.558602,-15.302734)" /><path
+     style="enable-background:new 0 0 512 512;fill:#ffffff;stroke-dashoffset:30.6"
+     d="m 246.5,186 v 18 H 334 v -18 z"
+     transform="translate(-4.558602,-15.302734)"
+     id="path2" /><path
+     style="enable-background:new 0 0 512 512;fill:#ffffff;stroke-dashoffset:30.6"
+     d="m 78,186 v 18 h 86.5 v -18 z"
+     transform="translate(-4.558602,-15.302734)"
+     id="path4" /><path
+     style="enable-background:new 0 0 512 512;fill:#ffffff;stroke-dashoffset:30.6"
+     d="m 69.52945,350.98746 v 34 h 47.5 v -18 H 87.529451 v -16 z"
+     transform="translate(-4.558602,-15.302734)"
+     id="path1" /><path
+     style="enable-background:new 0 0 512 512;fill:#ffffff;stroke-dashoffset:30.6"
+     d="m 69.52945,296.98746 v 28.5 h 18.000001 v -28.5 z"
+     transform="translate(-4.558602,-15.302734)"
+     id="path5" /></g></svg>

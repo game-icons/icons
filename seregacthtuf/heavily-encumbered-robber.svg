@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="heavily-encumbered-robber.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#FFFFFF;}
+</style>
+<defs
+   id="defs1">
+	
+		<inkscape:path-effect
+   apply_no_radius="true"
+   apply_with_radius="true"
+   chamfer_steps="1"
+   effect="fillet_chamfer"
+   flexible="false"
+   hide_knots="false"
+   id="path-effect5"
+   is_visible="true"
+   lpeversion="1"
+   method="auto"
+   mode="F"
+   nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+   only_selected="false"
+   radius="0"
+   unit="px"
+   use_knot_distance="true">
+		</inkscape:path-effect>
+</defs>
+<sodipodi:namedview
+   bordercolor="#000000"
+   borderopacity="0.25"
+   id="namedview1"
+   inkscape:current-layer="g1"
+   inkscape:cx="110.04496"
+   inkscape:cy="367.58716"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:pagecheckerboard="0"
+   inkscape:pageopacity="0.0"
+   inkscape:showpageshadow="2"
+   inkscape:window-height="1001"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1920"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:zoom="1.0813762"
+   pagecolor="#838383">
+	</sodipodi:namedview>
+<g
+   id="g1">
+	
+	
+<path
+   class="st0"
+   d="m 451,272.9 c -8.2,10.5 -12.9,16.3 -23.7,19 -39.9,11.2 -85.9,-26.6 -93.7,-52.2 l -16.5,7.2 c 8.4,19.2 34.4,53.9 76.1,70.3 -0.4,-0.2 11.8,83.8 -21.1,93.1 -23.4,3.8 -48.8,0.1 -71.9,-6.6 -1.3,10.4 -8.2,15 -9.8,25.5 9.9,-1 26.4,-1.9 31.4,9.1 l -11.9,20.7 -52.6,-3.2 c 1,-10.3 12,-42.5 14.8,-77.6 24.8,-2.2 47.6,3.4 70.6,0.2 l -2,-18.6 c -22,2.4 -41.03965,4.71187 -57.23965,-10.18813 C 243.06035,303.11187 293.1,204.9 344.5,195.1 c 7.9,-0.3 14.3,3.3 18,10.8 12.1,16.1 26.5,37.1 37.4,62.7 l 43.4,-12.9 c 6.4,5.7 12,7.4 7.7,17.2 z"
+   id="path1"
+   sodipodi:nodetypes="cccccccccccccccccccc"
+   style="enable-background:new 0 0 512 512" /><path
+   class="st0"
+   d="M489,459c-57.4-0.2-34.7-0.9-105.2-1.6c0.8-15,2-26.6,3.2-36.4c23.2-10.1,27.3-75,22.7-101.3  c53.4,7.7,23.7,66.3,12.2,104.2c20.9,1.1,40.7-3.6,64.3,11.3L489,459z"
+   id="path2"
+   style="enable-background:new 0 0 512 512" /><path
+   id="path4"
+   sodipodi:nodetypes="ccccc"
+   class="st0"
+   d="M417.2,188.4c5.8,14.6,11.7,29,18.2,42.4c10.3-3.1,22.6-9.6,30.8-18.3  L417.2,188.4z"
+   style="enable-background:new 0 0 512 512" /><path
+   id="path5"
+   sodipodi:nodetypes="cccc"
+   class="st0"
+   d="M479.2,191.4l-16.9,3.6l-6.3-19.7L479.2,191.4z"
+   style="enable-background:new 0 0 512 512" /><path
+   id="path6"
+   sodipodi:nodetypes="cscccccc"
+   class="st0"
+   d="M467.9,144.4c-11.6-2.5-23-0.4-35.1,4.4l55.7,26.8  C491.1,160.1,482.8,147.9,467.9,144.4L467.9,144.4z"
+   style="enable-background:new 0 0 512 512" /><path
+   id="path7"
+   sodipodi:nodetypes="czzzccccccccczc"
+   class="st0"
+   d="M55.5,165.6c-57,117.1-23,234.1-16.7,256.6  c6.4,22.4,27.2,32.7,91,32.4s76.5-14.8,94.1-50.6c18.3-52.5-2.8-160.9,90.3-216.1c16-10.1,34.8-14.7,52.3-5.4  c15.2,15.4,29.3,40,43.6,64.1l11.4-3.4c-32.4-59.3-44.3-153-111.1-178.3C214.7,27.8,106.5,71.6,55.5,165.6L55.5,165.6z"
+   style="enable-background:new 0 0 512 512" /><path
+   id="path8"
+   sodipodi:nodetypes="cccc"
+   class="st0"
+   d="M400.9,70l-17.8,3.2l44.9,56.2L400.9,70z"
+   style="enable-background:new 0 0 512 512" /><path
+   id="path9"
+   sodipodi:nodetypes="cccc"
+   class="st0"
+   d="M455.4,53.6l3.3,72.9l19.7-69.3L455.4,53.6z"
+   style="enable-background:new 0 0 512 512" /></g>
+
+
+
+
+
+
+
+</svg>
