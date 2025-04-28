@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 28.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Слой_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   sodipodi:docname="person-growth.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4" /><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#000000"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.38232423"
+   inkscape:cx="549.27202"
+   inkscape:cy="508.73051"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Слой_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#FFFFFF;}
+</style>
+
+<path
+   d="M 0,0 H 512 V 512 H 0 Z"
+   fill="#000000"
+   fill-opacity="1"
+   id="path1-9"
+   style="enable-background:new 0 0 512 512"
+   inkscape:label="path1" /><g
+   id="g1"
+   style="enable-background:new 0 0 512 512">
+		
+	<path
+   id="path2"
+   style="enable-background:new 0 0 512 512"
+   class="st0"
+   d="M 381.94531 30.230469 C 380.26554 30.197995 378.55078 30.253516 376.80078 30.400391 C 327.50078 36.200391 312.89922 119.09961 349.19922 153.59961 C 279.09922 164.29961 285.10078 277.39922 282.80078 328.69922 L 323.5 328.69922 L 334.59961 475 C 350.59961 478.7 366.89922 481.1 383.69922 481 C 400.49922 481.1 416.69922 478.79961 432.69922 475.09961 L 442.40039 328.69922 L 481 328.69922 C 478.8 270.39922 488.69961 161.99961 415.09961 153.09961 C 452.00898 116.28711 434.01818 31.237155 381.94531 30.230469 z M 205.90039 66.800781 L 145.90039 210.30078 L 188.80078 196.30078 L 176.40039 465 L 235.40039 465 L 223 196.30078 L 265.90039 210.30078 L 205.90039 66.800781 z M 85.992188 230.50781 C 84.977786 230.49487 83.947266 230.52461 82.900391 230.59961 C 52.500391 232.99961 39.699219 275 52.699219 300 C 20.299219 322 24.899219 373.70078 23.699219 407.80078 L 45.900391 407.80078 C 46.400391 414.40078 51.1 478.20078 51.5 482.80078 C 74.5 489.50078 99.5 489.30078 122.5 482.80078 C 122.8 477.80078 127 414.80078 127.5 407.80078 L 148.5 407.80078 C 147 371.60078 154.09922 319.99961 119.69922 299.09961 C 133.06797 272.65273 117.43863 230.90903 85.992188 230.50781 z M 85.9375 244.47266 C 108.64807 244.43964 118.29609 283.45547 102.69922 300.69922 L 96.900391 307.90039 C 138.60039 308.70039 133.39961 363.20078 134.59961 393.80078 L 114.5 393.80078 L 109.40039 471.40039 C 95.000391 474.60039 79.300781 474.60039 64.800781 471.40039 L 59 393.80078 L 37.900391 393.80078 C 39.200391 364.20078 36.600781 309.8 75.800781 308 L 70 301 C 54.6 285.2 62.699219 246.49961 83.699219 244.59961 C 84.458594 244.51523 85.204901 244.47372 85.9375 244.47266 z " /></g>
+
+</svg>

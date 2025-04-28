@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 28.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Слой_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   sodipodi:docname="melee-weapon-blueprint.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#585858"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="true"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.25"
+   inkscape:cx="112"
+   inkscape:cy="742"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Слой_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#FFFFFF;}
+</style>
+
+
+
+<path
+   d="M 0,0 H 512 V 512 H 0 Z"
+   fill="#000000"
+   fill-opacity="1"
+   id="path1-1"
+   style="enable-background:new 0 0 512 512"
+   inkscape:label="path1" /><g
+   id="g1"><path
+     id="path47"
+     style="enable-background:new 0 0 512 512;fill:#ffffff;fill-opacity:1"
+     d="M 414.05663 73.345703 C 384.44274 73.34518 359.7348 95.192686 355.22655 123.58008 L 29.257804 123.58008 L 29.257804 408.04883 L 363.8203 408.04883 L 414.05663 408.04883 C 446.84494 408.04814 473.62557 381.26682 473.62499 348.47852 L 473.62499 132.91406 C 473.62429 100.12666 446.84405 73.346401 414.05663 73.345703 z M 47.925773 142.24805 L 354.48632 142.24805 L 354.48632 348.47852 L 363.8203 348.47852 L 373.15429 348.47852 C 373.15432 347.05976 373.22639 345.65956 373.36523 344.2793 C 375.44845 323.5754 392.77531 307.57776 414.05663 307.57813 C 436.7561 307.57862 454.95654 325.77904 454.95702 348.47852 C 454.95743 371.17861 436.75672 389.38038 414.05663 389.38086 L 363.8203 389.38086 L 47.925773 389.38086 L 47.925773 142.24805 z M 150.9414 164.19727 L 150.9414 182.19727 L 245.9414 182.19727 L 245.9414 164.19727 L 150.9414 164.19727 z M 282.4414 164.19727 L 282.4414 182.19727 L 326.9414 182.19727 L 326.9414 164.19727 L 282.4414 164.19727 z M 131.09569 223.16602 L 131.09569 253.31445 L 131.09569 256.81445 L 74.691398 256.81445 L 74.691398 274.81445 L 131.09569 274.81445 L 131.09569 278.30273 L 131.09569 308.46289 L 148.99999 308.46289 L 148.99999 223.16602 L 131.09569 223.16602 z M 272.58007 240.0957 L 166.99999 249.95898 L 166.99999 281.68555 L 271.39648 291.52344 L 337.05663 265.92578 L 272.58007 240.0957 z M 308.9414 316.19727 L 308.9414 346.19727 L 258.4414 346.19727 L 258.4414 364.19727 L 326.9414 364.19727 L 326.9414 316.19727 L 308.9414 316.19727 z M 87.941398 346.19727 L 87.941398 364.19727 L 180.4414 364.19727 L 180.4414 346.19727 L 87.941398 346.19727 z M 198.9414 346.19727 L 198.9414 364.19727 L 228.6914 364.19727 L 228.6914 346.19727 L 198.9414 346.19727 z "
+     transform="translate(4.558602,15.302734)" /></g></svg>

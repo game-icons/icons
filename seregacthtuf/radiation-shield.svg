@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   sodipodi:docname="radiation-shield.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs5" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{enable-background:new    ;}
+	.st1{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview
+   bordercolor="#000000"
+   borderopacity="0.25"
+   id="namedview1"
+   inkscape:current-layer="svg1"
+   inkscape:cx="40.541506"
+   inkscape:cy="187.66794"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:pagecheckerboard="true"
+   inkscape:pageopacity="0.0"
+   inkscape:showpageshadow="2"
+   inkscape:window-height="1001"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1920"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:zoom="0.76464845"
+   pagecolor="#696969">
+	</sodipodi:namedview>
+<path
+   d="M 0,0 H 512 V 512 H 0 Z"
+   fill="#000000"
+   fill-opacity="1"
+   id="path1-2"
+   inkscape:label="path1" /><g
+   id="g5"
+   class="st0">
+	<path
+   id="circle4"
+   style="enable-background:new 0 0 512 512"
+   class="st1"
+   d="M 48.5 22 C 52.2 201.7 50.300391 441.39922 253.90039 489.69922 C 457.50039 441.39922 455.50078 201.7 459.30078 22 L 48.5 22 z M 67.300781 40.699219 L 440.40039 40.699219 C 439.80039 138.99922 431.09961 255.89961 402.59961 333.09961 C 373.69961 411.49961 326.40039 449.20078 253.90039 470.30078 C 71.400391 424.40078 73.100781 206.59922 67.300781 40.699219 z M 256.82031 99.169922 C 142.98555 98.612454 41.851172 242.82578 148.09961 355.69922 C 277.89961 488.79922 500.19922 297.09961 359.69922 144.09961 C 349.89922 134.79961 339.19961 126.60078 327.59961 119.80078 C 304.61992 105.63828 280.44639 99.285623 256.82031 99.169922 z M 256.35938 117.28516 C 363.7597 119.59063 446.40078 267.72734 328.80078 358.30078 C 258.10078 404.80078 171.5 380.2 136.5 306.5 C 126.2 285.5 121.1 261.8 122.5 238.5 C 122.9 231.8 123.80078 225.19961 125.30078 218.59961 C 125.90078 216.09961 126.49922 213.70078 127.19922 211.30078 C 129.19922 204.50078 131.8 197.80039 135 191.40039 C 140.4 180.60039 147.50078 170.7 155.80078 162 C 188.28516 129.53906 223.48172 116.5794 256.35938 117.28516 z M 312.69922 150.09961 L 271.19922 222.19922 C 283.09922 228.99922 288.7 241.09922 289 252.69922 L 369.69922 252.69922 C 368.99922 212.39922 348.79922 173.29961 312.69922 150.09961 z M 193.69922 151.80078 C 155.49922 175.40078 135.70039 211.50078 138.40039 252.80078 L 214.59961 252.80078 C 215.19961 239.90078 223.00078 227.20039 233.80078 221.40039 L 193.69922 151.80078 z M 252.69922 234.19922 A 20.299999 20.299999 0 0 0 232.40039 254.5 A 20.299999 20.299999 0 0 0 252.69922 274.80078 A 20.299999 20.299999 0 0 0 273 254.5 A 20.299999 20.299999 0 0 0 252.69922 234.19922 z M 271.30078 286.69922 C 260.10078 293.89922 245.89922 293.70078 233.69922 287.30078 L 196.80078 350.90039 C 229.80078 371.60039 272.59961 370.50078 308.59961 351.30078 L 271.30078 286.69922 z " />
+	
+	
+</g>
+</svg>
