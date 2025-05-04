@@ -36,6 +36,7 @@ Each sub-folders in this archive correspond to a different contributor :
 - Pepijn Poolman
 - Pierre Leducq
 - Caro Asercion
+- SeregaCthtuf
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
