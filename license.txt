@@ -37,6 +37,7 @@ Each sub-folders in this archive correspond to a different contributor :
 - Pierre Leducq
 - Caro Asercion
 - SeregaCthtuf
+- StaterZ
 
 Please, include a mention "Icons made by {author}" in your derivative work.
 
