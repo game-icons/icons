@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   style="height: 512px; width: 512px;"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="neptune.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.0675655"
+     inkscape:cx="251.03846"
+     inkscape:cy="235.58273"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="g4"
+     transform="matrix(1,0,0,1.0757275,1.4996867e-6,-47.304248)"
+     style="stroke-width:0.964159">
+    <path
+       d="m 45.443358,71.700705 0.002,19.283825 c 2.53e-4,58.02916 24.231968,106.49122 62.892579,139.0084 34.23233,28.79257 79.17757,45.41509 128.37891,48.85139 v 87.56973 H 117.07226 97.789061 v 38.56583 H 117.07226 236.7168 v 67.94276 19.28201 h 38.5664 v -19.28201 -67.94276 h 119.64453 19.28321 V 366.41405 H 394.92773 275.2832 v -87.56973 c 49.202,-3.43635 94.14606,-20.0599 128.37891,-48.85321 38.66018,-32.51713 62.89232,-80.97783 62.89258,-139.00658 l 0.002,-19.283825 H 427.99023 V 90.98453 c -2e-4,47.60738 -18.58593,83.78221 -49.15234,109.49167 -26.48443,22.2761 -62.55617,36.33282 -103.55469,39.69516 V 91.40394 72.121931 H 236.7168 V 91.40394 240.17136 C 195.71819,236.80926 159.64685,222.75233 133.16211,200.4762 102.59534,174.7667 84.009971,138.59225 84.009764,90.98453 V 71.700705 Z"
+       style="fill:#ffffff;stroke-linecap:square;stroke-miterlimit:10"
+       id="path5" />
+  </g>
+</svg>

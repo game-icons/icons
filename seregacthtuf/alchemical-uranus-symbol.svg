@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   style="height: 512px; width: 512px;"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="uranus.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.75488282"
+     inkscape:cx="156.97801"
+     inkscape:cy="349.0608"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="g13"
+     transform="translate(0,5.017578)">
+    <path
+       d="m 256,324.21875 c -19.85841,0 -35.95703,16.09667 -35.95703,35.95508 0,19.85841 16.09862,35.95703 35.95703,35.95703 19.85841,0 35.95703,-16.09862 35.95703,-35.95703 0,-19.85841 -16.09862,-35.95508 -35.95703,-35.95508 z"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-linecap:square;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       id="path13" />
+    <path
+       d="M 256,17.615234 227.71484,45.898437 113.85742,159.75586 99.714844,173.89844 128,202.18359 142.14258,188.04102 236,94.183594 V 237.64062 c -58.90428,9.62808 -104.17578,60.99972 -104.17578,122.53516 0,68.34318 55.8326,124.17383 124.17578,124.17383 68.34318,0 124.17578,-55.83065 124.17578,-124.17383 0,-61.53544 -45.2715,-112.90708 -104.17578,-122.53516 V 94.183594 L 369.85742,188.04102 384,202.18359 412.28516,173.89844 398.14258,159.75586 276,37.613281 270.14258,31.755859 Z M 256,276 c 46.72558,0 84.17578,37.4502 84.17578,84.17578 0,46.72558 -37.4502,84.17383 -84.17578,84.17383 -46.72558,0 -84.17578,-37.44825 -84.17578,-84.17383 C 171.82422,313.4502 209.27442,276 256,276 Z"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-linecap:square;stroke-miterlimit:10;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       id="path12" />
+  </g>
+</svg>
